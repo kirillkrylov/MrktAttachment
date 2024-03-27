@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ae4e24d-60f5-815c-4ddb-dca91c99b2d9",
+    "Name": "MrktAttachment",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1711541519000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/MrktAttachment.csproj",
+    "DependsOn": [
+      {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "24301387-f87a-4159-a426-8247c3f8a12e",
+    "Name": "MrktProcessUserTask_DownloadFile",
+    "ModifiedOnUtc": "\/Date(1711542017000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Download File",
+    "DependsOn": []
+  }
+}

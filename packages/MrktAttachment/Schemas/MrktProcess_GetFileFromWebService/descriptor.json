@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2effffd-b3a2-45b1-aa40-eeccb2e2b1a1",
+    "Name": "MrktProcess_GetFileFromWebService",
+    "ModifiedOnUtc": "\/Date(1711543653000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "GetFile from WebService",
+    "DependsOn": []
+  }
+}
